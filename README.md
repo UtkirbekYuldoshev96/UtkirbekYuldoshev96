@@ -4,11 +4,11 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi+the&fontSize=90)
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer) -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Utkirbek_Yuldoshev&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Utkirbek Yuldoshev&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 - 👋 Hi, I’m Utkirbek Yuldoshev
 - 👀 I’m interested in JS, CSS/SASS/Bootstrap and HTML 
-- 🌱 I’m currently learning SASS 
+- 🌱 I’m currently learning Reactjs, Redux and Nodejs, Python, TelegramBot 
 - 💞️ I’m looking to collaborate on web app & platform development 
 - 📫 How to reach me utkirbekyuldoshev7@gmail.com -->
 
@@ -44,12 +44,12 @@
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
 </div> -->
 
-<!-- <div align="center">  
+<div align="center">  
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
   <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white"/>
-</div> -->
+</div>
 
 ### Main skills:
 
