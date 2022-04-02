@@ -1,8 +1,8 @@
-<!--  # Yuldoshev O'tkirbek
+ # Yuldoshev O'tkirbek
 
 
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi+the&fontSize=90)
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer) -->
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi+the&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Utkirbek Yuldoshev&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
@@ -12,12 +12,12 @@
 - 💞️ I’m looking to collaborate on web app & platform development 
 - 📫 How to reach me utkirbekyuldoshev7@gmail.com -->
 
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+===+YuldoshevUtkirbek ;I+SPECIALIZE+===+WEB+DEVELOPMENT;I+EXPERTISE+>+2+YEARS+IN+PROGRAMMING;IF+(LIKE+MY+WORK)+FOLLOW+%26%26+STAR;THNX+:%29)](https://git.io/typing-svg) -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+===+YuldoshevUtkirbek ;I+SPECIALIZE+===+WEB+DEVELOPMENT;I+EXPERTISE+>+2+YEARS+IN+PROGRAMMING;IF+(LIKE+MY+WORK)+FOLLOW+%26%26+STAR;THNX+:%29)](https://git.io/typing-svg)
  
-<!-- <div align="center"> -->
-   <!-- <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=YuldoshevUtkirbek&theme=react-dark&hide_border=true&area=true" /> -->
-<!--  ![Contribution](https://activity-graph.herokuapp.com/graph?username=YuldoshevUtkirbek&theme=react-dark&hide_border=true&area=true) -->
-<!-- </div>  -->
+ <div align="center">
+  <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=YuldoshevUtkirbek&theme=react-dark&hide_border=true&area=true" /> 
+ ![Contribution](https://activity-graph.herokuapp.com/graph?username=YuldoshevUtkirbek&theme=react-dark&hide_border=true&area=true)
+</div> 
  
 <!-- ./STAT -->
 <div align="center">  
@@ -95,7 +95,6 @@
 
 <!--        ![Stats](https://github-readme-stats.vercel.app/api?username=NazarovAsadbek&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NazarovAsadbek&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117) -->
-<!---
+
 Yuldoshev Utkirbek/Yuldoshev Utkirbek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
