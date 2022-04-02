@@ -14,7 +14,10 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=UtkirbekYuldoshev96&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117)
 
-<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api? username=UtkirbekYuldoshev96&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="UtkirbekYuldoshev96 github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtkirbekYuldoshev96&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+<!-- <a href="#"> -->
+<!--  <img align="center" src="https://github-readme-stats.vercel.app/api?username=UtkirbekYuldoshev96&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="UtkirbekYuldoshev96 github stats" /></a> -->
+<a href="#">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtkirbekYuldoshev96&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </a>
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+===+YuldoshevUtkirbek ;I+SPECIALIZE+===+WEB+DEVELOPMENT;I+EXPERTISE+>+2+YEARS+IN+PROGRAMMING;IF+(LIKE+MY+WORK)+FOLLOW+%26%26+STAR;THNX+:%29)](https://git.io/typing-svg) -->
