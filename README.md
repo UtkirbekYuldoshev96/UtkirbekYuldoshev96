@@ -1,10 +1,10 @@
- # Yuldoshev O'tkirbek
+<!--  # Yuldoshev O'tkirbek -->
 
 
 <!--  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Utkirbek+Yuldoshev&fontSize=90) -->
 <!-- ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer) -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&&width=1000height=400&section=header&text=Utkirbek+Yuldoshev&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&&width=1000height=600&section=header&text=Utkirbek+Yuldoshev&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 - 👋 Hi, I’m Utkirbek Yuldoshev
 - 👀 I’m interested in JS, CSS/SASS/Bootstrap and HTML 
@@ -20,13 +20,13 @@
 <!-- </div>  -->
  
 <!-- ./STAT -->
-<div align="center">  
-  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=YuldoshevUtkirbek&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="YuldoshevUtkirbek github stats" /> 
-  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuldoshevUtkirbek&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
+<!-- <div align="center">   -->
+<!--   <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=YuldoshevUtkirbek&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="YuldoshevUtkirbek github stats" />  -->
+<!--   <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuldoshevUtkirbek&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" /> -->
+<!-- </div> -->
 
 <!-- ./STATS  -->
-<!-- <div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=YuldoshevUtkirbek&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Yuldoshev Utkirbek" /></div> -->
+<div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=YuldoshevUtkirbek&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Yuldoshev Utkirbek" /></div>
 <!-- <div align="center"   >   
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
