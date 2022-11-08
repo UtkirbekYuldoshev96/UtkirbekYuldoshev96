@@ -8,7 +8,7 @@
 
 - 👋 Hi, I’m Utkirbek Yuldoshev
 - 👀 I’m interested in JS, CSS/SASS/Bootstrap and HTML 
-- 🌱 I’m currently learning Reactjs, Redux and Nodejs, Python, TelegramBot 
+- 🌱 I’m currently learning Reactjs, Redux and Nodejs, Python, C++ TelegramBot 
 - 💞️ I’m looking to collaborate on web app & platform development 
 - 📫 How to reach me utkirbekyuldoshev7@gmail.com -->
 - 📌 Telegram channel @U_YuldoshevDev
