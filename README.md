@@ -7,10 +7,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&&width=1000height=600&section=header&text=Utkirbek+Yuldoshev&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 - 👋 Hi, I’m Utkirbek Yuldoshev
-- 👀 I’m interested in JS, CSS/SASS/Bootstrap and HTML 
+- 👀 I’m interested in Frontend HTML/CSS/SASS/Bootstrap/JS/Tailwandcss 
 - 🌱 I’m currently learning Reactjs, Redux and Nodejs, Python, C++ TelegramBot 
 - 💞️ I’m looking to collaborate on web app & platform development 
-- 📫 How to reach me utkirbekyuldoshev7@gmail.com -->
+- 📫 How to reach me utkirbekyuldoshev7@gmail.com
 - 📌 Telegram channel @U_YuldoshevDev
 - 👨‍💻 @Utkirbek_developer
 
@@ -94,7 +94,7 @@
 ### Areas of Interest:
 <!-- ![Angular](https://img.shields.io/badge/-angular-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117)&nbsp; -->
 <!-- ![React Native](https://img.shields.io/badge/-React_native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp; -->
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+<!-- ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp; -->
 <!-- ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp; -->
 
 <div align="center">
