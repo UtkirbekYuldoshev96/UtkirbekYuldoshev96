@@ -19,7 +19,7 @@
 <!--  <img align="center" src="https://github-readme-stats.vercel.app/api?username=UtkirbekYuldoshev96&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="UtkirbekYuldoshev96 github stats" /></a> -->
 <div width="90%">
 <a href="#">
- <img width=70% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtkirbekYuldoshev96&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+ <img width=60% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtkirbekYuldoshev96&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </a>
 </div>
 
