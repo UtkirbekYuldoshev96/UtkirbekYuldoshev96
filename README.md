@@ -6,13 +6,13 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&&width=1000height=600&section=header&text=Utkirbek+Yuldoshev&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-- 👋 Hi, I’m Utkirbek Yuldoshev
-- 👀 I’m interested in Frontend HTML/CSS/SASS/Bootstrap/JS/Tailwandcss 
+<!-- - 👋 Hi, I’m Utkirbek Yuldoshev -->
+<!-- - 👀 I’m interested in Frontend HTML/CSS/SASS/Bootstrap/JS/Tailwandcss 
 <!-- - 🌱 I’m currently learning Reactjs, Redux and Nodejs, Python, C++ TelegramBot --> 
-- 💞️ I’m looking to collaborate on web app & platform development 
-- 📫 How to reach me utkirbekyuldoshev7@gmail.com
+<!-- - 💞️ I’m looking to collaborate on web app & platform development 
+<!-- - 📫 How to reach me utkirbekyuldoshev7@gmail.com
 - 👨‍💻 @Utkirbek_developer
-
+-->
 <!-- ![Stats](https://github-readme-stats.vercel.app/api?username=UtkirbekYuldoshev96&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117) -->
 
 <!-- <a href="#"> -->
