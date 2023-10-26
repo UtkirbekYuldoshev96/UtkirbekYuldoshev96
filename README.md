@@ -1,8 +1,4 @@
 <!--  # Yuldoshev O'tkirbek -->
-<a href="https://github.com/UtkirbekYuldoshev96">
-  <img src="https://user-images.githubusercontent.com/45297354/149384539-9edfa509-2810-4575-bf93-f35ce1bc5b4c.png" alt="
-      UtkirbekYuldoshev96" align="center"/>
-</a>
 
 <!--  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Utkirbek+Yuldoshev&fontSize=90) -->
 <!-- ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer) -->
