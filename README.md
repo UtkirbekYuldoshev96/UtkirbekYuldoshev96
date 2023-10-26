@@ -271,12 +271,6 @@
       </a>
       <br>Prisma
     </td>
-      <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
-        <img src="[https://trpc.io/img/logo.svg](https://brandeps.com/logo/P/PHP-01)" width="36" height="36" alt="tRPC" />
-      </a>
-      <br>tRPC
-    </td>
   </tr> 
 </table>
 <!-- <a href="#"> -->
