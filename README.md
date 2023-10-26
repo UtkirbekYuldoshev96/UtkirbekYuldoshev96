@@ -281,6 +281,20 @@
 </a>
 </div>
 
+> Other
+
+<table width='100%'>
+  <tr>
+    <td align="center" width="110" height="90">
+      <a href="#debabin-stack">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" width="36" height="36" alt="electron" />
+      </a>
+      <br>electron
+    </td>
+  </tr> 
+</table>
+
+
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+===+YuldoshevUtkirbek ;I+SPECIALIZE+===+WEB+DEVELOPMENT;I+EXPERTISE+>+2+YEARS+IN+PROGRAMMING;IF+(LIKE+MY+WORK)+FOLLOW+%26%26+STAR;THNX+:%29)](https://git.io/typing-svg) -->
  
 <!--  <div align="center"> -->
