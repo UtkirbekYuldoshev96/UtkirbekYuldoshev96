@@ -73,17 +73,17 @@
       </a>
       <br>github
     </td>
-    <td align="center" width="110" height="90"> 
+<!--     <td align="center" width="110" height="90"> 
       <a href="#debabin-stack" >
         <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="36" height="36" alt="docker" />
       </a>
       <br>docker
-    </td>
+    </td> -->
   </tr> 
 </table>
-
+<!--
 > Testing
-
+<!--
 <table width='100%'>
   <tr>
      <td align="center" width="110" height="90"> 
@@ -124,7 +124,7 @@
     </td>
   </tr> 
 </table>
-
+-->
 > Code quality
 
 <table width='100%'>
