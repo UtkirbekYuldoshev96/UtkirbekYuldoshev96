@@ -247,12 +247,12 @@
       </a>
       <br>Node JS
     </td>
-    <td align="center" width="110" height="90">
+<!--     <td align="center" width="110" height="90">
       <a href="#debabin-stack" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="36" height="36" alt="GraphQL" />
       </a>
       <br>GraphQL
-    </td>
+    </td> -->
     <td align="center" width="110" height="90">
       <a href="#debabin-stack" >
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="Mongo DB" />
