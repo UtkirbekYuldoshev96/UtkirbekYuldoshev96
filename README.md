@@ -125,8 +125,8 @@
   </tr> 
 </table>
 -->
-> Code quality
-
+<!-- > Code quality 
+<!--
 <table width='100%'>
   <tr>
      <td align="center" width="110" height="90">
@@ -149,7 +149,7 @@
     </td>
   </tr> 
 </table>
-
+-->
 > Frontend
 
 <table width='100%'>
