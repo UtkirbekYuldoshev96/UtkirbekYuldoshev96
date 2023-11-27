@@ -249,7 +249,7 @@
     </td>
     <td align="center" width="110" height="90"> 
       <a href="#debabin-stack" >
-        <img src="https://brandeps.com/icon-download/N/Php-icon-vector-02.svg" width="36" height="36" alt="Node JS" />
+        <img src="https://brandeps.com/icon-download/N/PHP-icon-vector-02.svg" width="36" height="36" alt="Node JS" />
       </a>
       <br>PHP
     </td>
