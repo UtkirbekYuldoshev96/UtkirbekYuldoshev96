@@ -191,22 +191,23 @@
 </tr> 
 </table>
 
-<div width="300">
-  <img 
-    align="left" 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=utkirbek&show_icons=true&locale=en&layout=compact" 
-    alt="utkirbek" />
+<div>
+   <div width="350">&nbsp;
+     <img align="" 
+       src="https://github-readme-stats.vercel.app/api?username=utkirbek&show_icons=true&locale=en" alt="utkirbek" />
+   </div>
+   
+ <div width="300">
+     <img align="" 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=utkirbek&" alt="utkirbek" />
+  </div>
+
+   <div width="300">
+     <img align="" 
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=utkirbek&show_icons=true&locale=en&layout=compact" 
+       alt="utkirbek" />
+   </div>
 </div>
-<div width="350">&nbsp;
-  <img 
-    align="center" 
-    src="https://github-readme-stats.vercel.app/api?username=utkirbek&show_icons=true&locale=en" alt="utkirbek" />
-</div>
-<div width="300">
-  <img 
-    align="center" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=utkirbek&" alt="utkirbek" />
-</p>
 
 <div align="center">
   <br>
