@@ -4,8 +4,10 @@
 -  - 👀 I’m interested in Frontend HTML/CSS/SASS/Bootstrap/JS/Tailwandcss 
 - 🌱 I’m currently learning Reactjs, Redux and PHP, Python, C++ TelegramBot 
 - 💞️ I’m looking to collaborate on web app & platform development 
+<!---
 - 📫 How to reach me utkirbekyuldoshev7@gmail.com
-<!--- 👨‍💻Telegra @Utkirbek_developer -->
+ 👨‍💻Telegra @Utkirbek_developer 
+ -->
 
 <h2 align="left" id="debabin-stack">🔥 Tech stack</h2>
 
@@ -189,22 +191,28 @@
 </tr> 
 </table>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkirbek&show_icons=true&locale=en&layout=compact" alt="utkirbek" />
-</p>
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=utkirbek&show_icons=true&locale=en" alt="utkirbek" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkirbek&" alt="utkirbek" />
+<div width="300">
+  <img 
+    align="left" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=utkirbek&show_icons=true&locale=en&layout=compact" 
+    alt="utkirbek" />
+</div>
+<div width="350">&nbsp;
+  <img 
+    align="center" 
+    src="https://github-readme-stats.vercel.app/api?username=utkirbek&show_icons=true&locale=en" alt="utkirbek" />
+</div>
+<div width="300">
+  <img 
+    align="center" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=utkirbek&" alt="utkirbek" />
 </p>
 
 <div align="center">
   <br>
-    <p align="centre">
+<!--     <p align="centre">
       <b>Visitors Count</b>
-    </p>  
+    </p>   -->
     <p align="center">
       <img align="center" src="https://profile-counter.glitch.me/{YuldoshevUtkirbek}/count.svg" />
     </p> 
