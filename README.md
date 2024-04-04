@@ -1,3 +1,5 @@
+     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&&width=1000height=600&section=header&text=Utkirbek+Yuldoshev&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 -  - 👋 Hi, I’m Utkirbek Yuldoshev
@@ -191,21 +193,25 @@
 </tr> 
 </table>
 
-<div>
-   <div> &nbsp;
-     <img align="" 
+
+<div class="container text-center">
+  <div class="row">
+    <div class="col">&nbsp;
+      <img align="" 
        src="https://github-readme-stats.vercel.app/api?username=utkirbek&show_icons=true&locale=en" alt="utkirbek" />
-    <img align="" 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=utkirbek&" alt="utkirbek" />
-   </div>
-   
-   <div width="600">
+    </div>
+    <div class="col">
      <img align="" 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=utkirbek&" alt="utkirbek" />
+    </div>
+    <div class="col">
+       <img align="" 
        src="https://github-readme-stats.vercel.app/api/top-langs?username=utkirbek&show_icons=true&locale=en&layout=compact" 
        alt="utkirbek" />
-   </div>
+    </div>
+  </div>
 </div>
-
+   
 <div align="center">
   <br>
 <!--     <p align="centre">
@@ -216,4 +222,6 @@
     </p> 
   <br>
 </div>
+              
+              <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
