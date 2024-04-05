@@ -190,11 +190,7 @@
   </td>
 </tr> 
 </table>
-<style>
-     .row{
-          display: flex;
-     }
-</style>
+
 
 <div class="container text-center">
   <div class="row">
