@@ -30,7 +30,7 @@
   <td align="center" width="110" height="90">
       <a href="#debabin-stack">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="36" height="36" alt="javascript" />
-    </a> <br>javascript
+    </a> <br>Javascript
   </td>
   <td align="center" width="110" height="90">
       <a href="#debabin-stack" >
@@ -187,6 +187,11 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
         </a> 
       <br>Python
+  </td>
+   <td align="center" width="110" height="90">
+      <a href="#debabin-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="36" height="36" alt="javascript" />
+    </a> <br>Javascript
   </td>
 </tr> 
 </table>
